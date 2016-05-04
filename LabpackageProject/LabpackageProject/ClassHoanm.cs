@@ -8,5 +8,6 @@ namespace LabpackageProject
 {
     class ClassHoanm
     {
+        public int MyProperty { get; set; }
     }
 }

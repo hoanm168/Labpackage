@@ -24,5 +24,6 @@ namespace LabpackageProject
         {
             InitializeComponent();
         }
+        public int MyProperty { get; set; }
     }
 }
